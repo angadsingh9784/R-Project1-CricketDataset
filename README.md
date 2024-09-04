@@ -6,3 +6,7 @@ Just completed a project analyzing the Cricket Dataset using R , In which I trie
 
 ## LinkedIn Post
 Check out my recent LinkedIn post [here](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7207903795333267458).
+
+## Page 1
+![image](https://github.com/user-attachments/assets/d69450e1-5d33-4070-9c08-6b4d421c1eac)
+
